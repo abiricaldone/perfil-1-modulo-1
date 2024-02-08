@@ -48,3 +48,6 @@ nav a{
     display: flex;
     flex-flow: column nowrap;
 }
+.sizeimg{
+    width: 290px;
+}
