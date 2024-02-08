@@ -20,3 +20,17 @@ nav a{
     text-align: center;
 
 }
+.contenedor{
+    border: 5px solid #5a5856;
+    width: 90%;
+    max-width: 1200px;
+    background: #5a5856;
+    margin: 2px auto;
+    padding: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+    color: rgb(32, 32, 32);
+
+    display: flex;
+    flex-flow: column nowrap;
+}
