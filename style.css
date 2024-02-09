@@ -30,7 +30,7 @@ nav a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 10px;
     color: rgb(32, 32, 32);
-
+    justify-content: flex-end;
     display: flex;
     flex-flow: column nowrap;
 }
@@ -44,10 +44,11 @@ nav a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     color: rgb(32, 32, 32);
-
+    justify-self: left;
     display: flex;
     flex-flow: column nowrap;
 }
 .sizeimg{
     width: 290px;
+   align-content: center;
 }
